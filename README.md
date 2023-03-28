@@ -6,6 +6,7 @@ Data from April 2022 is used to predict season win-loss percentages. Hopefully t
 
 Technologies used:
 Excel
+Jupyter Notebook
 Python
 Tableau
 
