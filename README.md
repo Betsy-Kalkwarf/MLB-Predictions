@@ -15,7 +15,9 @@ ETL, data visualization, and supervised machine learning will be used to try to 
 ETL complete, unless other ML requires more work. Strings turned to floats relating to the situations in a baseball game (example: play result changed from "Out" to -1)
 
 Four linear regression models created. 
+
 Input (X): 'OUTSONPLAY', 'RUNSSCORED', 'Num_Ball/Strike', 'ResultNum'
+
 Target (y): WL Percentage (Win/Loss percentage for pitcher team or batter team)
 
 Models for all pitches and just for pitches that result in plays (out, single, double, etc.)
