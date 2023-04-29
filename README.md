@@ -28,6 +28,8 @@ Batter/all pitches: 0.0002116597581568458
 
 Batter/only plays: 0.0015267205914351045
 
+Decision Tree Regression also shows no correlation. The only data that had an r-squared score other than 0.0 or -0.1 for  was Batter/only plays which has an r-squared value of -0.01. So far, this shows you may not be able predict win-loss percentages from early season pitch-by-pitch data, no matter if it's pitchers or batters.
+
 
 Future plans: 
 More supervised machine learning will be used to see if the target question can be answered, or if this pitch-by-pitch data can't be used to make predictions for the entire season.
